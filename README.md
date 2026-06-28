@@ -207,7 +207,7 @@ Through this project, I gained hands-on experience in:
 
 **Sai Palande**
 
-Final Year Computer Science & Engineering (AI & ML) Student  
+AIML Engineer 
 Aspiring Data Analyst | SQL | PostgreSQL | Python | Power BI | Excel
 
 **GitHub:** https://github.com/SaiPalande
